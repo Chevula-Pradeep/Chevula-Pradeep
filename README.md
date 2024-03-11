@@ -44,7 +44,7 @@ git switch master
   git status
   git add "all changes files"
   git commit -m "sample name"
-  git push origin master
+  git push origin master/main
   
   
 
