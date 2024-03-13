@@ -48,7 +48,6 @@ public class SampleStepsFile {
 		String actual = ExpectedTitle.getText();
 		String expected = "Products";
 		Assert.assertEquals(actual, expected);
-		// driver.close();
 		Thread.sleep(3000);
 	}
 

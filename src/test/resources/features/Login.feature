@@ -7,6 +7,7 @@ Feature: User is able to login and do all tests in the saucedemo
     And user is able to click on Login button
     Then user is able to Navigate and see saucedemo page
 
+
   Scenario: User is able to filter DropDown and checkout the Item
     Given user is to open DropDownTab
     And select the maximum price-product
